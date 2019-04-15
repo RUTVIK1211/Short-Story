@@ -42,6 +42,17 @@
               </ul>
             </div>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#ui-feed" aria-expanded="false" aria-controls="ui-basic">
+              <span class="menu-title">Feedbacks</span>
+              <i class="menu-arrow"></i>
+            </a>
+            <div class="collapse" id="ui-feed">
+              <ul class="nav flex-column sub-menu">
+                <li class="nav-item"> <a class="nav-link" href="viewfeed.php">View Feedbacks  </a></li>
+              </ul>
+            </div>
+          </li>
             
             
     </ul>
